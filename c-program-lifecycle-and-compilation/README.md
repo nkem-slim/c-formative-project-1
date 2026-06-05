@@ -1,2 +1,3 @@
 # Real World Application 
-### This is some text that I have written
+### This will help users calculate percentage for maths operation
+### Also help in tipping waiters and waitresses after having a meal
